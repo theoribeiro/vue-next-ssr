@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode development"
   },
   "dependencies": {
     "vue": "^3.0.11"
